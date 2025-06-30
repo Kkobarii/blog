@@ -1,5 +1,5 @@
 ---
-title: How I Found Out I Had Cancer
+title: How I found out I had cancer
 published: 2025-06-29
 description: 'The first post of this experiment, where I describe my journey to getting a diagnosis.'
 image: ''
@@ -13,7 +13,7 @@ For a while now, I've been thinking about writing a few blog posts. I've always 
 
 So that's why I'm here, trying to write something, to document it, and maybe something good will come of it after all. And what better way to start than to tell the story of what brought me here and how it all actually happened. So, let's get to it. I'm currently undergoing treatment for cancer, and this was my journey to that discovery.
 
-# Sweet Ignorance
+# Sweet ignorance
 
 It all started sometime in the autumn of 2024. My partner and I had long promised ourselves that we might go on Erasmus, and it was finally starting to look like it would happen. We have never lived outside of the Czech Republic and we were just about ready for a new and exciting chapter of our lives. Everything looked good, we were looking for a good university, ideally up north, where we could both find our matching mandatory courses and also explore a new and foreign country. We considered Latvia, Sweden, Estonia, but in the end, we settled on the Norwegian university NTNU in Trondheim, which suited us best in terms of subjects and location.
 
@@ -23,7 +23,7 @@ However, it must be said that even before the first signs of the diagnosis, I wa
 
 But illnesses didn't stop me. In January, we found many events and opportunities to meet new people. Thanks to our great student house, which was mostly empty at the time, we had the chance to invite other students and made a few friends. We also went to a cabin in the middle of nowhere and spent two nights without internet, electricity, or water, just a group of friends in a tiny wooden cabin heated by a small stove in -15 degrees Celsius. We played football on a frozen lake and also went for a swim in the icy water. I love remembering that, nothing weighed me down back then.
 
-# Just a Small Lump
+# Just a small lump
 
 After the second illness, however, I noticed a lump that appeared on the left side of my neck. It was a few centimeters in size and not very visible on its own, only when I lifted it a bit with my finger. I had always heard that when you're sick, your lymph nodes swell, so I didn't think much of it. I'll just wait a few days, it'll go away, and I'll be able to continue our Erasmus. But even after a week or so, it didn't disappear, so I finally started dealing with it at the end of January.
 
@@ -33,7 +33,7 @@ The initial examination didn't tell me much. The attending doctor was apparently
 
 At this point, I was relatively calm. The second examination was just to be sure, and after all, I didn't want to have an ugly five-centimeter lump on my neck, so I would even be glad if they could just remove it at the hospital, to get it over with.
 
-# The Operation
+# The operation
 
 However, when I finally arrived at the hospital, I was surprised by the serious atmosphere. The doctor told me that they would only take a little bit of substance (or whatever it was in it) from the lump so they could examine it in the lab. Everything was quick, they just pricked my neck with a needle, took a sample, and then quickly told me potential diagnoses so I'd know what to expect. They had now ruled out lipoma, which scared me quite a bit. The primary possibilities now were an inflamed lymph node or, what I had already started to fear, cancer of the lymphatic system. For now, however, I tried not to worry about it, after all, what's the chance?
 
@@ -53,7 +53,7 @@ The whole operation lasted about half an hour. They didn't inform me much about 
 
 The operation was over, and it all happened so fast. The nurses took care of me for a while, but soon my partner came for me, and we went home. In the end, I ended up with a scar about five centimeters long and had seven stitches. When the anesthesia wore off, it really started to hurt. I didn't sleep much that night. I took paracetamol and laid on two pillows on my back, not even moving. After a few days, the pain subsided, but I could only safely turn my neck after a week, and my stitches were removed another week after that. I wore a medical adhesive tape over the scar for a few more months because a nurse advised me to. Today, it's completely healed, and I must say, at least it looks really badass.
 
-# Waiting for the Verdict
+# Waiting for the verdict
 
 After the operation, one of the worst periods awaited me. The first thing I did when I heard the term lymphoma was to look up the diagnosis. And of course, among the first pieces of information Google suggests is the life expectancy of patients. It varies from source to source, but I remember that the first estimate that came up for me then was two years. And it was really surreal to read such information and try to absorb it somehow.
 
@@ -63,9 +63,9 @@ The only positive side, however it may seem, was that I could finally tell all t
 
 I have to admit that I don't remember much from this period of hopeless waiting. I barely wrote anything in my diary back then, I have no photos, no evidence. I was sure then that I really only had a few years left to live. I slowly started to come to terms with it, in my eyes, there was no other option. I would love to elaborate on it a bit more, but I don't really know how. It all felt terribly unreal.
 
-# Diagnosis Day
+# Diagnosis day
 
-About a week and a half after the biopsy, a notification landed on my phone telling me to come to the hospital. It was an SMS written in Norwegian, it just stated the building we were supposed to go to, but no other clues. We went to several receptions, everyone sent us somewhere else. We passed the general reception on the ground floor, from there they sent us to another by a door that said "Chemoterapi," and finally, we made our way to the oncology. When I checked in there and asked if I really had an appointment with a doctor there, the receptionist asked me, "Are you an oncology patient?" I just laughed and said I was there precisely to find out. But we still tried to maintain at least some optimism, maybe it's just a local necessity to talk to an oncology doctor to find out you don't actually have cancer. In hindsight, that was a truly naive hope.
+About a week and a half after the biopsy, a notification landed on my phone telling me to come to the hospital. It was an SMS written in Norwegian, it just stated the building we were supposed to go to, but no other clues. We went to several receptions, everyone sent us somewhere else. We passed the general reception on the ground floor, from there they sent us to another by a door that said "Kjemoterapi," and finally, we made our way to the oncology. When I checked in there and asked if I really had an appointment with a doctor there, the receptionist asked me, "Are you an oncology patient?" I just laughed and said I was there precisely to find out. But we still tried to maintain at least some optimism, maybe it's just a local necessity to talk to an oncology doctor to find out you don't actually have cancer. In hindsight, that was a truly naive hope.
 
 Once we were sitting in what seemed to be the correct waiting room, the doctor called me on the phone. From previous communication with the hospital, I was used to English, so I was really surprised when she started speaking Czech to me. I initially thought that by pure coincidence, my general practitioner from the Czech Republic was calling me, and I immediately started apologizing that I couldn't come for an examination now because I was in Norway. She just laughed and told me it was convenient because she was waiting for me right in the next room, also in Norway. So, I found out that my oncologist is Czech!
 
@@ -73,7 +73,7 @@ After this long and confusing prelude, we finally got into the office, and the d
 
 So, as for the diagnosis itself, I have lymphoma, specifically the Hodgkin's variant. Before, I had the impression that if a disease had a special name, it was always bad news, but here it's exactly the opposite. This variant is, in the vast majority of cases, fully treatable. The goal of treatment is not just to halt the progression of cancer but to cure it completely so that patients can be completely healthy again. The following week, I also finally learned that it was stage three lymphoma, which surprisingly isn't that bad and doesn't change the chance of a cure much. According to the doctor, it's an excellent prognosis, as she kept repeating that day, "It's going to be fine."
 
-# A New Chapter
+# A new chapter
 
 I guess I'll end this story here, after all, I've written a lot, and we've finally gotten to the diagnosis itself. However, a lot of time has passed since then, and a heap of other procedures and obstacles awaited me. I think I could focus on the diagnosis itself and especially the treatment in another post, a few things come to mind that I'd like to elaborate on.
 

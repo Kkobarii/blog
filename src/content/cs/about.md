@@ -4,4 +4,6 @@ Tento blog jsem vytvořila, když jsem se po třech měsících přežívání c
 
 Nechtěla bych, aby se z tohoto stal jen *Můj blog o rakovině*, takže doufám, že dokážu přijít i s nějakými tématy, které se jí netýkají. Je ale jasné, že bude hlavním tématem, protože mám spoustu věcí, o kterých bych chtěla psát. Snad to tedy nebude jen depresivní a tragické.
 
+Taky pro mě bylo důležité, aby blog byl multijazyčný. Čeština je samozřejmě mým prvním jazykem, ale s angličtinou můžou příspěvky dosáhnout více lidí a také budu moci blog sdílet s přáteli z Erasmu a internetu obecně. Příspěvky vždy píšu v češtině a následně je přeložím do angličtiny a upravím nejasnosti. Obě verze by tedy měly být ekvivalentní a doufám, že také podobně čitelné.
+
 Takže věřím, že moje nahodilé myšlenky a jen lehce strukturované blábolení budou k něčemu užitečné.
