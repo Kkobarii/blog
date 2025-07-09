@@ -52,15 +52,25 @@ export const profileConfig: ProfileConfig = {
 		// 	// `pnpm add @iconify-json/<icon-set-name>`
 		// 	url: "https://twitter.com/adaxiik",
 		// },
-		// {
-		// 	name: "Steam",
-		// 	icon: "fa6-brands:steam",
-		// 	url: "https://store.steampowered.com",
-		// },
+		{
+			name: "Discord",
+			icon: "fa6-brands:discord",
+			url: "https://discordapp.com/users/484363004117385216",
+		},
+		{
+			name: "Steam",
+			icon: "fa6-brands:steam",
+			url: "https://steamcommunity.com/id/kkobari/",
+		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/Kkobarii",
+		},
+		{
+			name: "Spotify",
+			icon: "fa6-brands:spotify",
+			url: "https://open.spotify.com/user/31o7gervvysj4x6zgwl3phsn6gtu?si=1446d82deb67412a",
 		},
 	],
 };
