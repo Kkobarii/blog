@@ -72,7 +72,6 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 			).then((results) =>
 				results.filter((item) => {
 					const parts = item.url.split('/').filter(part => part !== '');
-					console.log(parts)
 					const itemLang = parts.length < 3 ? 'en' : parts[1];
 					return itemLang === lang;
 				})
