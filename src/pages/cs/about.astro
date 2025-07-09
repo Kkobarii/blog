@@ -9,7 +9,7 @@ import { getLangFromUrl } from "@utils/lang-utils";
 import { LANG_DEFAULT } from "@constants/constants";
 
 const lang = getLangFromUrl(Astro.url);
-const aboutPost = await getEntry("cs", "about");
+const aboutPost = await getEntry("cs", "spec/about");
 
 if (!aboutPost) {
 	throw new Error("About page content not found");
