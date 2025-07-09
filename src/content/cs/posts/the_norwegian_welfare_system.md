@@ -4,7 +4,7 @@ published: 2025-07-09
 description: 'Esej, kterou jsem napsala pro jeden ze svých předmětů na Erasmu, kde se zaměřuji na to, jak funguje norský sociální systém a jak pomáhá občanům v nouzi.'
 tags: []
 category: 'Erasmus'
-draft: true
+draft: false
 ---
 
 > Během mého předmětu Introduction to Norway (Úvod do Norska) bylo jedním z mých úkolů napsat anglickou esej o norském sociálním systému. Toto téma bylo opravdu blízko mým zájmům a dosavadním zážitkům, jelikož zdravotnictví je důležitou součástí celého tohoto systému, a tak jsem se rozhodla se do psaní eseje pustit.

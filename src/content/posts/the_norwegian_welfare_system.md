@@ -4,7 +4,7 @@ published: 2025-07-09
 description: 'An essay I have written for one of my Erasmus courses, where I focus on how the Norwegian welfare state works and how it helps citizens in need.'
 tags: []
 category: 'Erasmus'
-draft: true
+draft: false
 ---
 
 > During my Introduction to Norway course, one of my assignments was to write an essay on the Norwegian welfare system. This topic was really close to my interests, since healthcare is part of this whole system, so I decided to take it on.
