@@ -2,9 +2,10 @@
 import { Icon } from "astro-icon/components";
 import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
-import { formatDateToYYYYMMDD } from "../utils/date-utils";
+import { formatDateToDDMMYYYY, formatDateToYYYYMMDD } from "../utils/date-utils";
 import { getCategoryUrl, getTagUrl } from "../utils/url-utils";
 import { getLangFromUrl } from "@utils/lang-utils";
+import { LANG_CS } from "@constants/constants";
 
 interface Props {
 	class: string;
@@ -25,6 +26,9 @@ const {
 } = Astro.props;
 const className = Astro.props.class;
 const lang = getLangFromUrl(Astro.url);
+
+const fmtDate = (date: Date) => lang === LANG_CS ? formatDateToDDMMYYYY(date) : formatDateToYYYYMMDD(date);
+
 ---
 
 <div class:list={["flex flex-wrap text-neutral-500 dark:text-neutral-400 items-center gap-4 gap-x-4 gap-y-2", className]}>
@@ -34,7 +38,7 @@ const lang = getLangFromUrl(Astro.url);
         >
             <Icon name="material-symbols:calendar-today-outline-rounded" class="text-xl"></Icon>
         </div>
-        <span class="text-50 text-sm font-medium">{formatDateToYYYYMMDD(published)}</span>
+        <span class="text-50 text-sm font-medium">{fmtDate(published)}</span>
     </div>
 
     <!-- update date -->
@@ -44,7 +48,7 @@ const lang = getLangFromUrl(Astro.url);
             >
                 <Icon name="material-symbols:edit-calendar-outline-rounded" class="text-xl"></Icon>
             </div>
-            <span class="text-50 text-sm font-medium">{formatDateToYYYYMMDD(updated)}</span>
+            <span class="text-50 text-sm font-medium">{fmtDate(updated)}</span>
         </div>
     )}
 

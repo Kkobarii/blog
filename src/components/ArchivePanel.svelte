@@ -5,6 +5,7 @@ import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 import { getPostUrlBySlug } from "../utils/url-utils";
 import { getLangFromUrl } from "@utils/lang-utils";
+    import { LANG_CS } from "@constants/constants";
 
 export let tags: string[];
 export let categories: string[];
@@ -15,6 +16,7 @@ const lang = getLangFromUrl(new URL(window.location.href));
 tags = params.has("tag") ? params.getAll("tag") : [];
 categories = params.has("category") ? params.getAll("category") : [];
 const uncategorized = params.get("uncategorized");
+
 
 interface Post {
 	slug: string;
@@ -36,8 +38,9 @@ let groups: Group[] = [];
 function formatDate(date: Date) {
 	const month = (date.getMonth() + 1).toString().padStart(2, "0");
 	const day = date.getDate().toString().padStart(2, "0");
-	return `${month}-${day}`;
+	return lang === LANG_CS ? `${day}.${month}` : `${month}-${day}`;
 }
+
 
 function formatTag(tagList: string[]) {
 	return tagList.map((t) => `#${t}`).join(" ");
