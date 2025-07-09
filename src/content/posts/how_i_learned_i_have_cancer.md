@@ -2,11 +2,9 @@
 title: How I found out I had cancer
 published: 2025-06-29
 description: 'The first post of this experiment, where I describe my journey to getting a diagnosis.'
-image: ''
 tags: []
-category: ''
+category: 'Cancer'
 draft: false
-lang: ''
 ---
 
 For a while now, I've been thinking about writing a few blog posts. I've always cared a lot about preserving things and moments, I've been keeping a diary for many years and so far, I've managed to keep it up. But when I started dealing with this little catastrophe, I suddenly lost the will to write in it just for myself. After all, why would I want to preserve memories of this period? However, once I crossed into the second half of this journey, I started regretting it a bit. Even if they weren't good moments, they're still worth remembering, if only as a contrast for future times, as a comparison and proof of what I managed to survive.

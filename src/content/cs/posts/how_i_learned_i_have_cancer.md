@@ -2,11 +2,9 @@
 title: Jak jsem zjistila, že mám rakovinu
 published: 2025-06-29
 description: 'První příspěvek tohoto experimentu, ve kterém popisuji svou cestu za získáním diagnózy.'
-image: ''
 tags: []
-category: ''
+category: 'Rakovina'
 draft: false
-lang: ''
 ---
 
 Už nějakou dobu si říkám, že chci napsat pár příspěvků na nějaký blog. Vždycky mi hodně záleželo na uchovávání věcí a momentů, už spoustu let si píšu deník a zatím se mi ho dařilo udržovat. Když jsem se ale teď začala potýkat s touto menší katastrofou, najednou jsem ztratila vůli si tam pro sebe psát. Přece jen, proč bych si měla uchovávat vzpomínky na tohle období? Když už jsem se ale přehoupla do druhé poloviny této cesty, začala jsem toho trochu litovat. I když to nebyly dobré momenty, pořád stojí za to pamatovat si je, ať už jen jako kontrast pro budoucí chvíle, jako porovnání a důkaz toho, co jsem dokázala přežít.
