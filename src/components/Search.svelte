@@ -72,7 +72,9 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 			).then((results) =>
 				results.filter((item) => {
 					const parts = item.url.split('/').filter(part => part !== '');
-					const itemLang = parts.length < 3 ? 'en' : parts[1];
+					const is_about = parts.includes('about');
+					const limit = is_about ? 3 : 4;
+					const itemLang = parts.length < limit ? 'en' : parts[1];
 					return itemLang === lang;
 				})
 			);
