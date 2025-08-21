@@ -9,7 +9,7 @@ draft: false
 
 Na Erasmu dokáže být nuda. Když mi v červnu skončila škola, najednou jsem měla spoustu volného času (i když ani před tím jsem nebyla zrovna moc vytížená) bez nějakých nápadů, co s ním. Samozřejmě jsem se dívala na seriály, youtube a hrála hry, ale po nějaké době jsem si říkala, že by se hodilo zkusit si a naučit se nějakou tu kreativní a produktivní činnost. A taky by mi to umožnilo dělat něco, co není diplomová práce, a necítit se u toho špatně, že se jen flákám. Ehm. Ale to je vedlejší.
 
-V rychlosti tedy chci projet všechny aktivity, které mi ke konci Erasmu pomáhaly krátit si dlouhou chvíli. A tentokrát k tomu přidáme taky nějaké fotky! Můžete je dokonce rozkliknout pro přiblížení. Pro můj blog jen ty nejmodernější technologie.
+V rychlosti tedy chci projet všechny aktivity, které mi ke konci Erasmu pomáhaly krátit si dlouhou chvíli. A tentokrát k tomu přidáme taky nějaké fotky! Můžete je dokonce rozkliknout pro přiblížení (i když pro rozkliknutou verzi se mi nepodařilo přidat popisek -- pull requesty jsou vítány!). Pro můj blog jen ty nejmodernější technologie.
 
 # Kytara
 

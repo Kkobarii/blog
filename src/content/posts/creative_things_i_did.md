@@ -9,7 +9,7 @@ draft: false
 
 Erasmus can be boring. When my school year ended in June, I suddenly had a ton of free time (even though I wasn't that busy before) with no ideas on what to do with it. Of course, I watched TV shows, YouTube, and played games, but after a while, I thought it would be a good idea to try and learn some creative, productive activities. It would also let me do something that isn't my master's thesis and not feel bad about just slacking off. Ahem. But that's beside the point.
 
-So, I quickly want to go through all the activities that helped me pass the time towards the end of my Erasmus. And this time, we'll add some photos too! You can even click on them to zoom in. Only the most modern technology for my blog.
+So, I quickly want to go through all the activities that helped me pass the time towards the end of my Erasmus. And this time, we'll add some photos too! You can even click on them to zoom in (even though for the zoomed in version I was unable to show the caption -- pull requests are welcome!). Only the most modern technology for my blog.
 
 # Guitar
 
