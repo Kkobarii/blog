@@ -7,9 +7,9 @@ category: 'Rakovina'
 draft: false
 ---
 
-Jak jsem zmínila v popisku dnešního příspěvku, starat se o člověka, který si prochází nemilým kolečkem chemoterapie je těžká práce a bohužel také docela nedoceněná okolím. Jedná se přece o vašeho blízkého, partnera nebo rodinného příslušníka, takže se sluší, abyste se o něj v tomto těžkém období postarali. Dokáže to být ale opravdu psychicky vyčerpávající věc, přece jen si také procházíte trochu lehčím odvarem toho, co zažívá onen pacient.
+Jak jsem zmínila v popisku dnešního příspěvku, starat se o člověka, který si prochází nemilým kolečkem chemoterapie je těžká práce a bohužel je také docela nedoceněná okolím. Jedná se přece o vašeho blízkého, partnera nebo rodinného příslušníka, takže se sluší, abyste se o něj v tomto těžkém období postarali. Dokáže to být ale opravdu psychicky vyčerpávající věc, přece jen si také procházíte trochu lehčím odvarem toho, co zažívá sám pacient.
 
-Proto bych chtěla věnovat pár slov těmto nedoceněným strážným andělům, kteří 
+Proto bych chtěla věnovat pár slov těmto nedoceněným strážným andělům, kteří jsou nezbytní pro průchod tímto šíleným obdobím, protože bez nich by to nešlo. Tyto rady nepřichází pouze ode mě jako pacienta, ale také od mého úžasného přítele, který se o mě celou tu dobu staral a byl tu vždy pro mě, když jsem ho potřebovala. 
 
 
 # Poslouchejte, co vám pacient říká
