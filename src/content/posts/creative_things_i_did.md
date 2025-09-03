@@ -2,6 +2,7 @@
 title: Gallery of my creative attempts
 published: 2025-08-21
 description: 'Creative activities for a bored, school-free student looking for productive fun, and my thoughts on them. Now with pictures!'
+image: '/creative_things_i_did/axolotl.jpg'
 tags: []
 category: 'Hobby'
 draft: false

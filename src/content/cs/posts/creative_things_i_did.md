@@ -2,6 +2,7 @@
 title: Galerie mých pokusů o kreativitu
 published: 2025-08-21
 description: 'Kreativní činnosti pro znuděného studenta bez školy hledajícího produktivní zábavu a mé myšlenky ohledně nich. Nyní i s obrázky!'
+image: '/creative_things_i_did/axolotl.jpg'
 tags: []
 category: 'Hobby'
 draft: false
@@ -98,7 +99,7 @@ Po přestěhování se do nového bytu (který nám pronajala jedna Irská inter
     </figure>
     <figure>
         <img src="/blog/creative_things_i_did/drawing/6.png">
-        <figcaption>Šestý den, tady už jsem konečně měla pocit, že moje koule konečně začínají být reálně kulaťoulinkatější.</figcaption>
+        <figcaption>Šestý den, tady už jsem měla pocit, že moje koule konečně začínají být reálně kulaťoulinkatější.</figcaption>
     </figure>
 </div>
 
