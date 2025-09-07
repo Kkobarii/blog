@@ -37,7 +37,7 @@ I already mentioned this in the post for caregivers, but it's worth repeating. W
 
 Every person goes through illness differently. No one who hasn't gone through chemotherapy can know what it's like. You don't have to be afraid to ask how your loved one is feeling to understand it better; you're showing that you care and that you're trying to understand. It's definitely a better option than assuming you understand how they feel. Unfortunately, everything is unpredictable, and without communication, it's hard to understand. Sometimes, a patient suddenly feels bad even though they were fine an hour ago. It's important not to take it personally and to be understanding of these changes.
 
-## Show Sincere Interest
+## Show sincere interest
 
 Personally, during my treatment, I could talk about cancer, chemotherapy, and all of these things for hours. After all, that's why I originally started writing this blog — so I could share my experiences and write my way through everything. But the greatest joy I had was when my friends or family asked me about my experiences just because they were genuinely interested. So I'd like to recommend that if something from this treatment world interests you, just ask. I'm pretty sure the patient will be happy to talk and explain everything to you.
 
