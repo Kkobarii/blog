@@ -2,6 +2,7 @@
 import type { Page } from "astro";
 import { Icon } from "astro-icon/components";
 import { url } from "../../utils/url-utils";
+import { getLangFromUrl } from "@utils/lang-utils";
 
 interface Props {
 	page: Page;
@@ -10,6 +11,7 @@ interface Props {
 }
 
 const { page, style } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
 
 const HIDDEN = -1;
 
@@ -46,8 +48,9 @@ if (r === page.lastPage - 2) pages.push(page.lastPage - 1);
 if (r < page.lastPage) pages.push(page.lastPage);
 
 const getPageUrl = (p: number) => {
-	if (p === 1) return "/";
-	return `/${p}/`;
+    let base = lang == 'en' ? '' : `/${lang}` 
+	if (p === 1) return `${base}/`;
+	return `${base}/${p}/`;
 };
 ---
 
