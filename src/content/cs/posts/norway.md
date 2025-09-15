@@ -46,26 +46,50 @@ Překvapilo mě taky, že tady jsou lidi úplně bezstarostní. Kola občas jen 
 
 A tím se nesnažím říct, že by Češi byli nějaký národ nepříjemných lidí, ale trochu jiný přístup v komunikaci a koexistenci tady šel přece jen poznat. Noři jsou přede vším bezkonfliktní. Pokud se nějak dá konfliktu předejít nebo vyhnout, tak si vždy vyberou tuto cestu. I lidi na ulici jsou proto relativně příjemní, když se s někým setkáte očima, často se na vás usměje, když s nějakým interagujete, bude naprosto zdvořilý.
 
-Takhle to bylo i u lidí, se kterými jsem se bavila, primárně tedy šlo o studenty, ale pobavila jsem se v podstatě se všemi věkovými skupinami včetně babiček a dědečků. Všichni byli milí, a i když ne vždycky byli zrovna u
+Takhle to bylo i u lidí, se kterými jsem se bavila, primárně tedy šlo o studenty, ale pobavila jsem se v podstatě se všemi věkovými skupinami včetně babiček a dědečků. Všichni byli milí, a i když ne vždycky byli zrovna upovídaní, i tak jsme si vždycky alespoň chvíli popovídali.
 
-Nejvíce jsem to ale pozorovala u sestřiček v nemocnici. Všechny byly absolutně zlaté, se vším nápomocné, i když jsem jim dělala problémy, protože se mnou musely mluvit anglicky místo norsky, nikdy s tím neměly nejmenší problém. Během celé mé nemocniční eskapády jsem narazila snad jen na dvě, které bych možná popsala jako nepříjemné, ale ani si nejsem jistá, jestli to třeba jen nebylo tou jazykovou bariérou. Jinak s nimi však mám jen dobré zkušenosti, vždy byly příjemné a pomáhaly mi i během těch nejhorších panických záchvatů a jiných nepříjemných situací. 
+Nejvíce jsem to ale pozorovala u sestřiček v nemocnici. Všechny byly absolutně zlaté, se vším nápomocné, i když jsem jim dělala problémy, protože se mnou musely mluvit anglicky místo norsky, nikdy s tím neměly nejmenší problém. Během celé mé nemocniční eskapády jsem narazila snad jen na dvě, které bych možná popsala jako nepříjemné, ale ani si nejsem jistá, jestli to třeba jen nebylo tou jazykovou bariérou. Jinak s nimi však mám jen dobré zkušenosti, vždy byly příjemné a pomáhaly mi i během těch nejhorších panických záchvatů a jiných nemilých situací. 
 
 ## Všichni umí anglicky
 
+Pokud umíte anglicky vy, tak se nemusíte bát, že byste se v Norsku nedomluvili. Anglicky tady umí opravdu všichni, přes všechny věkové i sociální skupiny. Opět ráda zmíním místní babičky a dědečky, kteří občas sice museli své znalosti angličtiny oprašovat, ale pak jsme se mohli bez problémů bavit o Československu (ano, hodně lidí, i těch mladších, bohužel ještě nezaslechlo zprávy, že od nás Slováci utekli). Nedokážu si představit, jaké by to bylo v opačném případě, kdyby nějaký Nor jel do Česka a musel tam řešit věcí, které jsem tady řešila já. Určitě by tam komunikaci měl mnohem těžší.
+
 ## Nikdo vám nerozumí
+
+Myslím, že tohle je zkušenost, se kterou se ztotožní každý Erasmák. Moje nejoblíbenější aktivita za celých devět měsíců v Norsku bylo chodit po ulicích Trondheimu nebo jezdit v nacpaném MHD a řešit s přítelem absolutně soukromé věci, které bychom si v Česku nechali na tajnou domácí konverzaci, nebo prostě mluvit o lidech stojících kolem nás, jako by se nechumelilo. Je to tak svobodný pocit, jako bychom s přítelem měli své vlastní tajné šifrování, takže nám vůbec nikdo nerozuměl. A protože čeština je slovanský jazyk, tak germánští nebo románští mluvčí neměli ani šanci nic vyluštit, i kdyby se fakt snažili. Ostatních Čechů jsme se taky nebáli, bylo nás v Trondheimu tak málo, že jsme své krajany za devět měsíců potkali nanejvýš pětkrát.
+
+Teď když už jsme zpátky v Česku, musíme si dávat pozor na jazyk, aby nás na ulici někdo nefláknul.
 
 
 # Negativa
 
+I přes všechny ty pozitivní věci se však taky ukázalo pár negativ, kdy jsem si často říkala, že tohle přece funguje o tolik lépe v Česku.
+
 ## Ceny
+
+Věděli jsme, že Norsko je drahé, ale i tak jsme nebyli připravení na tento šok. Rozebírat, co stojí kolik v Norsku a v Česku bychom teď dokázali celé dny (především tedy můj přítel, který primárně nakupoval), ale nechci s tím zbytečně prodlužovat počet slov. Ale chci to zmínit hlavně pro úplnost, protože to fakt bylo šílené. Není se čemu divit, že jsme mezi ostatními Erasmáky potkávali téměř výhradně studenty z bohatých západních států — naši slovanští bratři byli skoro k nenalezení.
 
 ## Drahé a nekvalitní MHD
 
+Toto se z části váže k předchozímu bodu, protože MHD bylo opravdu pekelně drahé. Pro srovnání, studentská roční jízdenka na celé město by nás tam stála 12 000 kč, oproti nějakým 1 400 kč, jak je to v Ostravě. Je to tedy neuvěřitelně desetkrát dražší. Je to však možná jen věc Trondheimu, ze začátku pobytu nás někdo varoval, že je zde jedno z nejdražších MHD v celém Norsku.
+
+A kdyby alespoň kvalita služeb odpovídala ceně, tak bychom si tak nestěžovali, ale bohužel tomu tak nebylo. Autobusy byly nespolehlivé a několikrát se nám stalo, že bus z ničeho nic změnil trasu a cestující o tom nijak neupozornil, takže jsme prakticky skončili na konečné a neměli jsme žádnou možnost, co s tím udělat. Doteď nechápu, jak může autobus toto udělat, prostě jen tak jet jinudy a nechat pasažéry, ať si dopravu na původní cíl nějak vyřeší sami. O to více si teď vážím skvělého MHD, které máme v Ostravě.
+
 ## Byrokracie
+
+Norové si na toto opravdu potrpí. Všechno má svá pravidla a jakmile něco trochu vystupuje ze zajetého systému, je to špatně a nemůže to takhle být. Pro univerzitu jsme se s tím docela rvali a v nemocnici jsem taky musela řešit několik situací se systémy, které s námi úplně nechtěly spolupracovat.
+
+Jednou, když jsme se vraceli z nemocnice po chemoterapii, ve stresu a s už nastupující nevolností, do autobusu nastoupili revizoři. Oba dva jsme měli platné studentské lístky a museli jsme se také prokázat studentskou aplikací. Když se však příteli nedařilo přihlásit, autobus kvůli nám na pár minut pozdrželi a pak nás donutili vystoupit a jít domů pěšky, i přes to že jsme jim situaci vysvětlili a přítel mohl své studentství prokázat jak možností přístupu do jiných univerzitních webů tak platnou fyzickou ISIC kartou, která se používá v Evropě běžně. Prostě postup říká jednu konkrétní aplikaci a přes to nejede vlak.
+
+Podobných situací jsme bohužel zažili více. Norsko je super v tom, že jejich sytémy fungují skvěle pokud člověk splňuje jejich předpoklady (například pokud má Norské občanství), jakmile je však něco mimo normu, občas pak selhávají a ani neposkytují tolik možností řešit věci osobně a individuálně. Nikdy jsem neměla problém psát maily, volat, klidně i přijít osobně, ale i tak bylo komplikované s nějakými problémy najít pomoc. 
 
 ## Nutnost mít aplikaci na všechno
 
+Digitalizace je super, užitečná a moderní věc, ale občas si říkám, jestli to už nezachází moc daleko. Během prvního měsíce v Norsku jsme si totiž museli postahovat obrovské množství všech možných aplikací, bez kterých bychom tam nebyli schopni přežít. Je fajn mít všechno v mobilu, ale když se pak člověk snaží prokázat revizorům nebo třeba chce otevřít dveře do univerzitní kafeterie a mobil zrovna odporuje, není doslova nic, co s tím může udělat. Třeba u těch studentských služeb by stačilo přidat možnost prokazovat se čipem v ISICu, tak jak to třeba funguje u zamčených dveří u nás na VŠB.
+
 ## Kupodivu malý výběr produktů
+
+Další věc, která mě překvapila, byla velikost výběru produktů v obchodech (nebo spíš její nedostatek). Vtipné to bylo třeba u hygienických produktů, v obchodě byly třeba tři typy deodorantů a v podstatě jen jeden sprcháč, takže ve fitku pak bylo opravdu těžké poznat, které z identicky vypadajících mýdel je vaše.
 
 ## Lidi se neumí vyhýbat na cestě
 
