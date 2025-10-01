@@ -10,4 +10,4 @@ The template I used is [Fuwari](https://github.com/saicaca/fuwari), an amazing a
 
 ## Jump right in if you dare
 
-So, if you have some free time and want to read random thoughts of a girl whose life changed quickly and without warning (some may even say it got flipped, turned upside down), go over to **[kkobarii.github.io/blog/](kkobarii.github.io/blog)**. Don't forget to change your preferred language (I recommend Czech if you can speak it, though the English versions are also good) and try to enjoy my ramblings!
+So, if you have some free time and want to read random thoughts of a girl whose life changed quickly and without warning (some may even say it got flipped, turned upside down), go over to **[blog.kkobari.eu](blog.kkobari.eu)**. Don't forget to change your preferred language (I recommend Czech if you can speak it, though the English versions are also good) and try to enjoy my ramblings!
