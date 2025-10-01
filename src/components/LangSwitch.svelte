@@ -21,13 +21,12 @@ onMount(() => {
 function switchLang(newLang: LANG) {
     const url = new URL(window.location.href);
     const segments = url.pathname.split('/').filter(Boolean);
-    const base = segments[0];
     const hasPrefix = lang !== LANG_DEFAULT;
     const newHasPrefix = newLang !== LANG_DEFAULT;
 
     const path = segments.slice(hasPrefix ? 2 : 1);
 
-    const newSegments = [base];
+    const newSegments = [];
     if (newHasPrefix) newSegments.push(newLang);
     newSegments.push(...path);
 
