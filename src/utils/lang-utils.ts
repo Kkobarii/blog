@@ -5,7 +5,7 @@ export const LANG_SEQ: LANG[] = [LANG_CS, LANG_EN];
 
 
 export function getLangFromUrl(url: URL): LANG {
-  const [,, lang] = url.pathname.split('/');
+  const [, lang] = url.pathname.split('/');
   const l = LANG_SEQ.includes(lang as LANG) ? lang as LANG : LANG_DEFAULT;
 
 

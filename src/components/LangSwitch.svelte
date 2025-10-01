@@ -24,7 +24,7 @@ function switchLang(newLang: LANG) {
     const hasPrefix = lang !== LANG_DEFAULT;
     const newHasPrefix = newLang !== LANG_DEFAULT;
 
-    const path = segments.slice(hasPrefix ? 2 : 1);
+    const path = segments.slice(hasPrefix ? 1 : 0);
 
     const newSegments = [];
     if (newHasPrefix) newSegments.push(newLang);
