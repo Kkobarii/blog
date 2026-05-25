@@ -17,7 +17,7 @@ V rychlosti tedy chci projet všechny aktivity, které mi ke konci Erasmu pomáh
 Když se za námi na konci zimy stavili rodiče na návštěvu, přivezli mi s sebou mou kytaru. Jako malá jsem hrála hodně, chodila jsem pravidelně do hudebky i když se mi nechtělo a na předehrávkách jsem si vedla dle mého názoru slušně a většinou jsem sklidila od rodičů a babiček v publiku přiměřený potlesk. Na střední mě ale chuť hrát přešla a dlouho jsem na kytaru nesáhla. A na vysoké jsem ji občas vzala, když jsem se cítila hudebnicky, nebo jsem zabrnkala pár akordů u táboráku, ale taky to nebylo nějak často.
 
 <figure>
-    <img class="standardized" src="/public/creative_things_i_did/guitar/guitar.png">
+    <img class="standardized" src="/creative_things_i_did/guitar/guitar.png">
     <figcaption>Bohužel z Norska nemám ani jednu fotku s kytarou, takže tady je alespoň ilustrační fotka z Ostravy. K pokousaným notám se odmítám vyjadřovat.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Se psaním mám taky už docela dlouhou historii. Už jako malá jsem pořád n�
 Proto jsem se v červnu pustila do psaní tohoto blogu. Prvotní myšlenou bylo popsat svou dost nestandardní zdravotní situaci a dát svým blízkým a známým možnost nahlédnout do mého života bez toho, aby se museli složitě vyptávat. Téma nemocnice a léčby se ukázalo být opravdu bohatým zdrojem inspirace a mé první příspěvky zaměřené právě na toto ze mě vyletěly během několika dnů bez nějakých velkých záseků. Je to fakt terapeutické, moci takto sdílet veškeré ty věci, které jsme do té doby řešili s přítelem v podstatě sami. A další zábavnou věcí pro mě bylo, že můžu stránky blogu hostovat takhle jednoduše (a zdarma!) přes GitHub Pages, takže i když jsem už velmi dlouho nic neprogramovala, pořád si připadám alespoň trochu jako ten programátor, kterým bych měla být.
 
 <figure>
-    <img class="standardized" src="/public/creative_things_i_did/writing/code.png">
+    <img class="standardized" src="/creative_things_i_did/writing/code.png">
     <figcaption>Falešné programování v plném proudu. Fotka je z mobilu místo screenshotu, aby to vypadalo zajímavěji.</figcaption>
 </figure>
 
@@ -44,27 +44,27 @@ Zároveň snad moje amatérské fotky můžou posloužit i jako ukázka zajmavý
 
 <div class="two-figures">
     <figure>
-        <img src="/public/creative_things_i_did/photography/sunset.png">
+        <img src="/creative_things_i_did/photography/sunset.png">
         <figcaption>Krásný půlnoční západ slunce focený z balkonu našeho starého bytu.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/photography/nidelva.png">
+        <img src="/creative_things_i_did/photography/nidelva.png">
         <figcaption>Fotka Gloshaugenu a Studentersamfundetu z mostu pro chodce a cyklisty přes řeku Nidelvu, který jsme objevili až po sedmi měsících.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/photography/arcade.png">
+        <img src="/creative_things_i_did/photography/arcade.png">
         <figcaption>Husté arkádovky, na které jsme se šli jen podívat, protože na hraní jsme moc chudí.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/photography/minigolf.png">
+        <img src="/creative_things_i_did/photography/minigolf.png">
         <figcaption>Minigolf se zajímavými interaktivními levely a magickým modrým osvětlením.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/photography/flower.png">
+        <img src="/creative_things_i_did/photography/flower.png">
         <figcaption>Pěkná dvojbarevná kytička neznámého rodu, kterou jsem našla před nemocnicí.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/photography/flask.png">
+        <img src="/creative_things_i_did/photography/flask.png">
         <figcaption>Úžasná ručně vyrobená placatka ze hry Outer Wilds, kterou mi k narozkám vyrobili kamarádi.</figcaption>
     </figure>
 </div>
@@ -76,7 +76,7 @@ Nevím jestli je tohle nějak chvályhodné, ale jsem ráda, že můžu svoje ob
 Další věc, do které jsem se také chtěla pustit, bylo kreslení. Můj noťas má dotykovou obrazovku a může tedy sloužit i jako grafický tablet, takže už pár měsíců dozadu jsem si zkoušela nějaké to digitální umění pomocí grafického programu [Krita](https://krita.org/). Můj původní plán byl nakreslit sadu kytiček z Minecraftu a začala jsem jednou ze svých oblíbených, Azure Bluet. Po pár dnech práce na tomto obrázku mě to však nějak přestalo bavit, možná tím, že má neschopnost s Kritou ve spojení s mým perfekcionismem mě nutil trávit hrozně moc času na relativně zbytečných věcech. Bohužel už jsem se tedy nakonec nezvládla dostat ke stínům
 
 <figure>
-    <img class="small" src="/public/creative_things_i_did/drawing/azure_bluet.png">
+    <img class="small" src="/creative_things_i_did/drawing/azure_bluet.png">
     <figcaption class="small">Finální stav mého pokusu o nakreslení minecraftové kytičky. Její reálnou podobu ve hře můžete vidět na cedulce v květináči.</figcaption>
 </figure>
 
@@ -86,19 +86,19 @@ Po přestěhování se do nového bytu (který nám pronajala jedna Irská inter
 
 <div class="two-figures">
     <figure>
-        <img src="/public/creative_things_i_did/drawing/3.png">
+        <img src="/creative_things_i_did/drawing/3.png">
         <figcaption>Třetí den, první pokusy o tvorbu složitějších tvarů a jejich stínování.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/drawing/4.png">
+        <img src="/creative_things_i_did/drawing/4.png">
         <figcaption>Čtvrtý den, tady se mi hodně líbí očička.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/drawing/5.png">
+        <img src="/creative_things_i_did/drawing/5.png">
         <figcaption>Pátý den, není zas tak extra zajímavý, spíše jen do počtu.</figcaption>
     </figure>
     <figure>
-        <img src="/public/creative_things_i_did/drawing/6.png">
+        <img src="/creative_things_i_did/drawing/6.png">
         <figcaption>Šestý den, tady už jsem měla pocit, že moje koule konečně začínají být reálně kulaťoulinkatější.</figcaption>
     </figure>
 </div>
@@ -114,7 +114,7 @@ O naší hře se moc rozepisovat nechci, zvlášť pro případ že bychom se p�
 Začala jsem jednoduchými postavičkami, které však zatím za sdílení nestojí. Abych se naučila pracovat i s většími rozlišeními (tento obrázek má neuvěřitelných 128x128 pixelů), zkusila jsem si nakreslit les ve svitu měsíce. Obrázek měl původně mít více věcí, ale nakonec jsem z toho byla tak vyděšená, že jsem ho nakonec nechala v ne úplně dodělaném stavu, ani nějaké stíny jsem nakonec nedodělala. I tak si ale myslím, že to je slušný pokus, a někdy bych se k němu chtěla vrátit.
 
 <figure>
-    <img class="small" src="/public/creative_things_i_did/pixelart/forest.png">
+    <img class="small" src="/creative_things_i_did/pixelart/forest.png">
     <figcaption>Jedna z prvních věcí, které jsem si chtěla vyzkoušet, jednoduchá lesní scéna s monochromatickou paletou.</figcaption>
 </figure>
 
@@ -122,19 +122,19 @@ Potom jsem se vrhla na jednoduché předměty a animace. Toto už jsou věci, na
 
 <div class="two-figures">
     <figure>
-        <img class="square" src="/public/creative_things_i_did/pixelart/bow.gif">
+        <img class="square" src="/creative_things_i_did/pixelart/bow.gif">
         <figcaption>Luk byla první věc, kterou jsem animovala. Hlavně jsem hrdá na využití tzv. <i>smear framu</i>, který dodává dynamiku a sílu vystřelení šípu.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/public/creative_things_i_did/pixelart/dagger.gif">
+        <img class="square" src="/creative_things_i_did/pixelart/dagger.gif">
         <figcaption>Nožík byl jednoduchý, pouze zrychlí, chvíli letí, zpomalí a pak se rozbije. Nejvíc času mi zabral vlající provázek.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/public/creative_things_i_did/pixelart/berry.gif">
+        <img class="square" src="/creative_things_i_did/pixelart/berry.gif">
         <figcaption>Jahůdka jen chvíli třepe lístky a pak se zmenší jako kus želatiny.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/public/creative_things_i_did/pixelart/coin.gif">
+        <img class="square" src="/creative_things_i_did/pixelart/coin.gif">
         <figcaption>Mince se mi hodně líbí, pěkně se třpytí a taky umí bourat do věcí (s trochou dynamiky) a rozbít se.</figcaption>
     </figure>
 </div>
@@ -142,7 +142,7 @@ Potom jsem se vrhla na jednoduché předměty a animace. Toto už jsou věci, na
 Všechno je to v Asepritu relativně jednoduché a jsem s výsledky opravdu spokojená. Jak je na tom hra samotná to už je druhá věc. Jde to skvěle, přísahám. Pro zajímavost chci také ukázat sprite sheet animací luku, jako takový pohled do zákulisí.
 
 <figure>
-    <img class="small" src="/public/creative_things_i_did/pixelart/bow.png">
+    <img class="small" src="/creative_things_i_did/pixelart/bow.png">
     <figcaption>Animace jsou každá na novém řádku. Jako bonus je k tomu i samotný šíp.</figcaption>
 </figure>
 
