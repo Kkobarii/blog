@@ -1,10 +1,10 @@
 ---
 title: Gallery of my creative attempts
 published: 2025-08-21
-description: 'Creative activities for a bored, school-free student looking for productive fun, and my thoughts on them. Now with pictures!'
-image: '/creative_things_i_did/axolotl.jpg'
+description: "Creative activities for a bored, school-free student looking for productive fun, and my thoughts on them. Now with pictures!"
+image: "/creative_things_i_did/axolotl.jpg"
 tags: []
-category: 'Hobby'
+category: "Hobby"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ So, I quickly want to go through all the activities that helped me pass the time
 When my parents came to visit at the end of winter, they brought my guitar with them. When I was little, I played a lot and went to music school regularly, even if I didn't want to. I'd say I did pretty well at my recitals and usually got a decent round of applause from parents and grandmas in the audience. In high school, however, I lost my desire to play and didn't touch a guitar for a long time. In uni, I'd occasionally pick it up when I felt musical or sometimes I'd strum a few chords at a campfire, but it wasn't very often.
 
 <figure>
-    <img class="standardized" src="/blog/creative_things_i_did/guitar/guitar.png">
+    <img class="standardized" src="/public/creative_things_i_did/guitar/guitar.png">
     <figcaption>Unfortunately, I don't have a single photo with my guitar from Norway, so here's at least an illustrative one from Ostrava. I refuse to comment on the bite marks on the sheet music.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ I've got a pretty long history with writing, too. Even as a kid, I was always wr
 That's why I started this blog in June. The initial idea was to describe my rather unusual health situation and give my friends and family a way to peek into my life without having to ask complicated questions. The topic of the hospital and treatment turned out to be a really rich source of inspiration, and my first posts focused on it just flew out of me in a few days without any major writer's blocks. It's actually therapeutic to be able to share all these things that my partner and I had been dealing with mostly on our own. And another fun part for me was that I can host the blog so easily (and for free!) through GitHub Pages, so even though I haven't coded in a long time, I still feel at least a little bit like the programmer I'm supposed to be.
 
 <figure>
-    <img class="standardized" src="/blog/creative_things_i_did/writing/code.png">
+    <img class="standardized" src="/public/creative_things_i_did/writing/code.png">
     <figcaption>Fake programming in full swing. The photo is from my phone instead of a screenshot to make it look more interesting.</figcaption>
 </figure>
 
@@ -44,27 +44,27 @@ At the same time, I hope my amateur photos can also serve as a showcase of inter
 
 <div class="two-figures">
     <figure>
-        <img src="/blog/creative_things_i_did/photography/sunset.png">
+        <img src="/public/creative_things_i_did/photography/sunset.png">
         <figcaption>A beautiful midnight sunset shot from the balcony of our old apartment.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/photography/nidelva.png">
+        <img src="/public/creative_things_i_did/photography/nidelva.png">
         <figcaption>A photo of Gloshaugen and Studentersamfundet from the pedestrian and cyclist bridge over the Nidelva river, which we only discovered after seven months.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/photography/arcade.png">
+        <img src="/public/creative_things_i_did/photography/arcade.png">
         <figcaption>Cool arcade games we just went to look at because we're too broke to play.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/photography/minigolf.png">
+        <img src="/public/creative_things_i_did/photography/minigolf.png">
         <figcaption>Mini-golf with interesting interactive levels and magical blue lighting.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/photography/flower.png">
+        <img src="/public/creative_things_i_did/photography/flower.png">
         <figcaption>A pretty two-toned flower of an unknown species that I found in front of the hospital.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/photography/flask.png">
+        <img src="/public/creative_things_i_did/photography/flask.png">
         <figcaption>An amazing handmade flask from the game Outer Wilds that my friends made for my birthday.</figcaption>
     </figure>
 </div>
@@ -76,7 +76,7 @@ I don't know if this is particularly praiseworthy, but I'm happy to be able to s
 Another thing I wanted to get into was drawing. My laptop has a touchscreen, so it can also be used as a graphics tablet. A few months ago, I tried some digital art using the graphics program [Krita](https://krita.org/). My original plan was to draw a set of flowers from Minecraft, and I started with one of my favorites, the Azure Bluet. After a few days of working on this picture, I kind of lost interest, maybe because my skill issues with Krita combined with my perfectionism forced me to spend a huge amount of time on relatively pointless things. Unfortunately, I never managed to get to the shadows.
 
 <figure>
-    <img class="small" src="/blog/creative_things_i_did/drawing/azure_bluet.png">
+    <img class="small" src="/public/creative_things_i_did/drawing/azure_bluet.png">
     <figcaption class="small">The final state of my attempt to draw a Minecraft flower. Its real appearance in the game can be seen on the label in the pot.</figcaption>
 </figure>
 
@@ -86,19 +86,19 @@ After moving to the new apartment (which was rented to us by an Irish interior d
 
 <div class="two-figures">
     <figure>
-        <img src="/blog/creative_things_i_did/drawing/3.png">
+        <img src="/public/creative_things_i_did/drawing/3.png">
         <figcaption>Day three, my first attempts at creating more complex shapes and shading them.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/drawing/4.png">
+        <img src="/public/creative_things_i_did/drawing/4.png">
         <figcaption>Day four, I really like the little eyeballs here.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/drawing/5.png">
+        <img src="/public/creative_things_i_did/drawing/5.png">
         <figcaption>Day five, not that interesting, more just for the count.</figcaption>
     </figure>
     <figure>
-        <img src="/blog/creative_things_i_did/drawing/6.png">
+        <img src="/public/creative_things_i_did/drawing/6.png">
         <figcaption>Day six, here I finally felt like my circles were starting to be actually circular.</figcaption>
     </figure>
 </div>
@@ -114,7 +114,7 @@ I don't want to go into too much detail about our game, especially in case we do
 I started with simple characters, which aren't really worth sharing yet. To learn to work with larger resolutions (this image is an incredible 128x128 pixels), I tried drawing a forest in the moonlight. The picture was originally supposed to have more things, but in the end, I was so intimidated by it that I left it in an unfinished state, and I didn't even finish some of the shadows. Even so, I think it's a decent attempt, and I'd like to go back to it someday.
 
 <figure>
-    <img class="small" src="/blog/creative_things_i_did/pixelart/forest.png">
+    <img class="small" src="/public/creative_things_i_did/pixelart/forest.png">
     <figcaption>One of the first things I wanted to try: a simple forest scene with a monochromatic palette.</figcaption>
 </figure>
 
@@ -122,19 +122,19 @@ Then I dove into simple items and their animations. These are things I'm quite p
 
 <div class="two-figures">
     <figure>
-        <img class="square" src="/blog/creative_things_i_did/pixelart/bow.gif">
+        <img class="square" src="/public/creative_things_i_did/pixelart/bow.gif">
         <figcaption>The bow was the first thing I animated. I'm especially proud of using a <i>smear frame</i>, which adds a sense of motion and power to the arrow's release.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/blog/creative_things_i_did/pixelart/dagger.gif">
+        <img class="square" src="/public/creative_things_i_did/pixelart/dagger.gif">
         <figcaption>The dagger was simple -- it just speeds up, flies for a bit, slows down, and then breaks. The fluttering string took me the most time.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/blog/creative_things_i_did/pixelart/berry.gif">
+        <img class="square" src="/public/creative_things_i_did/pixelart/berry.gif">
         <figcaption>The berry just wiggles its leaves for a bit and then bounces like a piece of gelatin.</figcaption>
     </figure>
     <figure>
-        <img class="square" src="/blog/creative_things_i_did/pixelart/coin.gif">
+        <img class="square" src="/public/creative_things_i_did/pixelart/coin.gif">
         <figcaption>I really like the coin -- it sparkles nicely and can also crash into things (with a bit of dynamic motion) and break.</figcaption>
     </figure>
 </div>
@@ -142,7 +142,7 @@ Then I dove into simple items and their animations. These are things I'm quite p
 Everything is relatively simple in Aseprite, and I'm really happy with the results. How the game itself is doing is another matter. It's going great, I swear. For fun, I also want to show the sprite sheet for the bow animations, as a little peek behind the scenes.
 
 <figure>
-    <img class="small" src="/blog/creative_things_i_did/pixelart/bow.png">
+    <img class="small" src="/public/creative_things_i_did/pixelart/bow.png">
     <figcaption>Each animation is on a new row. As a bonus, the arrow itself is included too.</figcaption>
 </figure>
 
